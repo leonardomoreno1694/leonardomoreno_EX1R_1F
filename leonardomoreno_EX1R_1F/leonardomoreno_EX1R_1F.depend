@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1557785032 source:c:\users\user\desktop\ex1rec\leonardomoreno_ex1r_1f\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557785032 c:\users\user\desktop\ex1rec\leonardomoreno_ex1r_1f\imput.h
+
+1561345453 source:c:\users\user\desktop\ex1rec\leonardomoreno_ex1r_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1561249260 c:\users\user\desktop\ex1rec\leonardomoreno_ex1r_1f\socios.h
+
+1561394241 source:c:\users\user\desktop\ex1rec\leonardomoreno_ex1r_1f\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557785032 source:c:\users\user\desktop\utn\ex1rec\leonardomoreno_ex1r_1f\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557785032 c:\users\user\desktop\utn\ex1rec\leonardomoreno_ex1r_1f\imput.h
+
+1561345453 source:c:\users\user\desktop\utn\ex1rec\leonardomoreno_ex1r_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1561249260 c:\users\user\desktop\utn\ex1rec\leonardomoreno_ex1r_1f\socios.h
+
+1561479250 source:c:\users\user\desktop\utn\ex1rec\leonardomoreno_ex1r_1f\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1561572238 source:d:\leonardomoreno_ex1r_1f\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557785032 d:\leonardomoreno_ex1r_1f\imput.h
+
+1561572272 source:d:\leonardomoreno_ex1r_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1561249262 d:\leonardomoreno_ex1r_1f\socios.h
+
+1561572364 source:d:\leonardomoreno_ex1r_1f\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1561572080 source:d:\leonardomoreno_ex1r_1f\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1557785032 d:\leonardomoreno_ex1r_1f\input.h
+
+1561572238 source:c:\users\user\desktop\leonardomoreno_ex1r_1f\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557785032 c:\users\user\desktop\leonardomoreno_ex1r_1f\imput.h
+
+1561572452 source:c:\users\user\desktop\leonardomoreno_ex1r_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1561249262 c:\users\user\desktop\leonardomoreno_ex1r_1f\socios.h
+
+1561572364 source:c:\users\user\desktop\leonardomoreno_ex1r_1f\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
